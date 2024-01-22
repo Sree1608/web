@@ -1,0 +1,15 @@
+.header{
+    padding: 10px;
+    background-color: rgb(76, 76, 183);
+}
+.box{
+    display: flex;
+}
+.con{
+    display: inline;
+    margin-left: 500px;
+}
+table{
+    padding: 20px;
+    height: 20px;
+}
